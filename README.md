@@ -1,2 +1,8 @@
-# Cryptocurrency
-Analysis of Cryptocurrencies using Python/Google Colab
+# Cryptocurrency - By Anastasia Papadimitriou
+
+This project makes use of:
+- Python
+
+Live Site URL and Status:
+
+https://github.com/anastasiatp/Cryptocurrency
